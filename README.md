@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ManishMShah.
+- 👋 Hi, I’m "Manish M. Shah".
 - 👀 I’m interested in Programming languages. 
 - 🌱 I’m currently learning C++ and enjoying it.
 - 💞️ I’m looking to collaborate on c++ based projects.
